@@ -23,14 +23,14 @@ The goals of this challenge are for you to:
 
 An analysis to gather data on the seasons of Oahu and determine whether the seasons could affect the surf and ice cream shop business, to do so. I compared the key statistical data in June and December across all of the stations and years(2010 - 2017).
 
-During this period, June had a minimum temparture of 64°F and maximum temperature of 85°F while December had a minimum temparture of 56°F and maximum temperature of 83°F. June and December had an average temperature of 75°F and 71°F respectively. The 25th and 75th percentile for June was 73˚F and 77°F respectively while December was 69°F and 74°F respectively.
+During this period, June had a minimum temperature of 64°F and maximum temperature of 85°F while December had a minimum temperature of 56°F and maximum temperature of 83°F. June and December had an average temperature of 75°F and 71°F respectively. The 25th and 75th percentile for June was 73˚F and 77°F respectively while December was 69°F and 74°F respectively.
 
 In both June and December the standard deviation was extremely similar, 3.26 and 3.75 respectively. This shows that both summer and winter season between 2010 and 2017 in all stations had reasonably warm temperatures.
 
 My recommendations for future analysis will be as follow:
 
-  * Look into other locations in Hawaii where tourists live and best places to surf and we can place out shop there
+  * Look into other locations in Hawaii where tourists live and best places to surf.
   * Look into each month for weather trends throughout the year and compare year to year.
-  * Look into the precipitation to observe quantity and frequency during June and December,
-  * Look into the relationship between temperature and precipitation during June and December
+  * Look into the precipitation to observe quantity and frequency during June and December.
+  * Look into the relationship between temperature and precipitation during June and December.
 
