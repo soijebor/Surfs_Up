@@ -25,7 +25,7 @@ An analysis to gather data on the seasons of Oahu and determine whether the seas
 
 During this period, June had a minimum temperature of 64°F and maximum temperature of 85°F while December had a minimum temperature of 56°F and maximum temperature of 83°F. June and December had an average temperature of 75°F and 71°F respectively. The 25th and 75th percentile for June was 73˚F and 77°F respectively while December was 69°F and 74°F respectively.
 
-In both June and December the standard deviation was extremely similar, 3.26 and 3.75 respectively. This shows that both summer and winter season between 2010 and 2017 in all stations had reasonably warm temperatures.
+In both June and December, the standard deviation was extremely similar, 3.26 and 3.75 respectively. This shows that both summer and winter season between 2010 and 2017 in all stations had reasonably warm temperatures.
 
 My recommendations for future analysis will be as follow:
 
