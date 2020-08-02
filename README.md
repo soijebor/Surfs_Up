@@ -27,7 +27,7 @@ During this period, June had a minimum temperature of 64°F and maximum temperat
 
 In both June and December, the standard deviation was extremely similar, 3.26 and 3.75 respectively. This shows that both summer and winter season between 2010 and 2017 in all stations had reasonably warm temperatures.
 
-My recommendations for future analysis will be as follow:
+My recommendations for future analysis are:
 
   * Look into other locations in Hawaii where tourists live and best places to surf.
   * Look into each month for weather trends throughout the year and compare year to year.
