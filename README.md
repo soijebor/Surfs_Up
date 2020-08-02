@@ -29,4 +29,8 @@ In both June and December the standard deviation was extremely similar, 3.26 and
 
 My recommendations for future analysis will be as follow:
 
-  * 
+  * Look into other locations in Hawaii where tourists live and best places to surf and we can place out shop there
+  * Look into each month for weather trends throughout the year and compare year to year.
+  * Look into the precipitation to observe quantity and frequency during June and December,
+  * Look into the relationship between temperature and precipitation during June and December
+
